@@ -4,7 +4,6 @@
        width="90%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Poonam Kunwar</h1>
 
 <h3 align="center">
 Business Analyst | Data Analytics | Predictive Modeling | AI & Operations
