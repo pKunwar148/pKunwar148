@@ -92,6 +92,7 @@ Developed a GAMS optimization model for a multi-plant supply chain covering prod
 **Skills:** GAMS · Linear Programming · Supply Chain Analytics · Operations Research · Decision Modeling
 
 [View Project](https://github.com/pKunwar148/Multi-plant-supply-chain-optimization)
+
 ---
 
 ## 🛠️ Technical Skills
