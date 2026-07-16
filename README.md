@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-profile-banner.png"
+  <img src="github-profile-banner.png"
        alt="Poonam Kunwar GitHub Banner"
        width="100%">
 </p>
