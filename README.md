@@ -1,7 +1,7 @@
 <p align="center">
   <img src="github-profile-banner.png"
        alt="Poonam Kunwar GitHub Banner"
-       width="90%">
+       width="100%">
 </p>
 
 <h3 align="center">
