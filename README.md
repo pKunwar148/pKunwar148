@@ -1,7 +1,7 @@
 <p align="center">
   <img src="github-profile-banner.png"
        alt="Poonam Kunwar GitHub Banner"
-       width="80%">
+       width="90%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Poonam Kunwar</h1>
