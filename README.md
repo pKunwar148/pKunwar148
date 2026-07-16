@@ -35,64 +35,63 @@ Business Analyst | Data Analytics | Predictive Modeling | AI & Operations
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Customer Intelligence with PySpark
+### 🛒 E-Commerce Customer Churn and Segmentation
 
-Analyzed more than 500,000 e-commerce transaction records using PySpark. Built churn-prediction models, customer segments, lift analysis, and a retention campaign value framework.
+Analyzed more than 500,000 e-commerce transactions to predict customer churn, compare classification models, identify behavioral customer segments, and evaluate retention campaign decisions.
 
-**Skills:** PySpark · Spark SQL · Logistic Regression · Random Forest · Gradient Boosting · K-Means
+**Skills:** PySpark · Spark SQL · Logistic Regression · Decision Trees · Random Forest · Gradient Boosting · K-Means
 
-[View Project](https://github.com/pKunwar148/E-Commerce-Customer-Intelligence-PySpark)
-
----
-
-### 🤖 AI-Powered Business Analyst Copilot
-
-Built a LangGraph-powered AI application that profiles CSV data, identifies anomalies, maps KPIs, and generates business recommendations.
-
-**Skills:** Python · LangGraph · Gemini API · Data Profiling · AI Agents
-
-[View Project](https://github.com/pKunwar148/AI-Business-Analyst-Copilot)
-
----
-
-### 📈 Data Job Market Intelligence Dashboard
-
-Created an interactive Power BI dashboard analyzing salaries, skills, companies, locations, and hiring trends across data-related roles.
-
-**Skills:** Power BI · Power Query · DAX · Data Modeling · Dashboard Design
-
-[View Project](https://github.com/pKunwar148/Data-Job-Market-Intelligence-Power-BI)
+[View Project](https://github.com/pKunwar148/E-Commerce-Customer-Churn-and-Segmentation)
 
 ---
 
 ### 🧠 AI-Era Semiconductor Stock Impact Dashboard
 
-Developed a Power BI dashboard examining semiconductor stock performance during the AI era using returns, volatility, trading activity, benchmark comparisons, and a custom AI Impact Score.
+Developed an interactive Power BI dashboard examining semiconductor stock performance during the AI era using stock returns, volatility, trading activity, benchmark comparisons, normalized performance, and a custom AI Impact Score.
 
-**Skills:** Power BI · DAX · Financial Analytics · Benchmarking · Data Visualization
+**Skills:** Power BI · Power Query · DAX · Financial Analytics · Benchmarking · Data Visualization
 
-[View Project](https://github.com/pKunwar148/AI-Era-Semiconductor-Stock-Impact-Dashboard)
+[View Project](https://github.com/pKunwar148/Semiconductor-AI-Market-Impact-Dashboard)
 
 ---
 
 ### 🚲 Bike Rental Demand Analytics with SAS
 
-Completed an end-to-end analysis of daily bike rental demand using visualization, statistical inference, ANOVA, and multivariable regression.
+Completed an end-to-end analysis of daily bike rental demand using exploratory visualization, statistical inference, ANOVA, correlation analysis, and multivariable regression.
 
-**Skills:** SAS · Regression · ANOVA · Statistical Analysis · Data Visualization
+**Skills:** SAS · Regression · ANOVA · Statistical Analysis · Demand Analytics · Data Visualization
 
 [View Project](https://github.com/pKunwar148/Bike-Rental-Demand-Analytics-SAS)
 
 ---
 
-### 🌱 Sustainable Supply Chain Optimization
+### 📊 Data Job Market Intelligence Dashboard
+
+Created an interactive Power BI dashboard analyzing salaries, technical skills, employers, job types, and hiring trends across data-related roles.
+
+**Skills:** Power BI · Power Query · DAX · Data Modeling · Business Intelligence · Dashboard Design
+
+[View Project](https://github.com/pKunwar148/Data-Jobs-Market-Analysis)
+
+---
+
+### 🎢 Roller Coaster Performance and Design Analytics
+
+Analyzed U.S. roller coaster data to examine how track length, height, drop, design type, and other characteristics relate to coaster speed and performance.
+
+**Skills:** SAS · Exploratory Data Analysis · Correlation Analysis · Statistical Comparison · Data Visualization
+
+[View Project](https://github.com/pKunwar148/roller-coaster-speed-length-analysis)
+
+---
+
+### 🌱 Sustainable Multi-Plant Supply Chain Optimization
 
 Developed a GAMS optimization model for a multi-plant supply chain covering production, inventory, transportation, supplier capacity, service levels, and carbon-emission constraints.
 
-**Skills:** GAMS · Linear Programming · Supply Chain Analytics · Operations Research
+**Skills:** GAMS · Linear Programming · Supply Chain Analytics · Operations Research · Decision Modeling
 
-[View Project](https://github.com/pKunwar148/Sustainable-Multi-Plant-Supply-Chain-Optimization-GAMS)
-
+[View Project](https://github.com/pKunwar148/Multi-plant-supply-chain-optimization)
 ---
 
 ## 🛠️ Technical Skills
