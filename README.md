@@ -4,7 +4,6 @@
        width="90%">
 </p>
 
-
 <h3 align="center">
 Business Analyst | Data Analytics | Predictive Modeling | AI & Operations
 </h3>
